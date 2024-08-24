@@ -14,7 +14,7 @@
 
 
  ## 🚀Getting Started
- 1. Clone the repository 📋:
+ 1. Clone the repository 📋: 
 
     ![Static Badge](https://img.shields.io/badge/GitHub-YogeshwareeDafane-blue?style=for-the-badge&logo=github&labelColor=black)
 
