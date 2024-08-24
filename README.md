@@ -12,7 +12,6 @@
 
  ![Static Badge](https://img.shields.io/badge/BOOTSTRAP-blue?style=for-the-badge&logo=BOOTSTRAP&labelColor=black)
 
-
  ## 🚀Getting Started
  1. Clone the repository 📋: 
 
@@ -33,7 +32,6 @@ http://localhost:4200
 ## Project Screenshots 📸
 ![IMG_20240824_182549](https://github.com/user-attachments/assets/c3665ddd-75b1-4c23-a5dc-5dc4f834375b)
 
-
 ## 🌟Features
 
 
@@ -43,9 +41,6 @@ http://localhost:4200
 - Result Display: Display the calculated BMI and category in a clear and visually appealing way
 - Input Validation: Validate user input for weight and height to ensure accurate calculations
 - Responsive Design: Ensure the calculator works well on various devices and screen sizes
-
-
-
 ## 🚀Usage
 Calculate Your BMI in 3 Easy Steps!
 
@@ -56,19 +51,15 @@ Calculate Your BMI in 3 Easy Steps!
     - Click the Calculate BMI button
 3. Get Your Result:
     - Your BMI result and category will be displayed on the screen
-
-
-
 ## Acknowledgements🙏
-
- This project was made possible thanks to the following:
+This project was made possible thanks to the following:
 
 - Angular Team for creating and maintaining the Angular framework
 - Bootstrap Team for providing the Bootstrap CSS framework
 - Font Awesome Team for providing the Font Awesome icon library
 - Stack Overflow Community for providing answers and solutions to various coding problems
 - GitHub Community for providing a platform for version control and collaboration
-
+ 
 ## Authors🖋️
 Yogeshwaree Dafane
 
