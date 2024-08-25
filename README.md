@@ -65,9 +65,7 @@ This project was made possible thanks to the following:
 Yogeshwaree Dafane
 
 ## License 📜
-![Static Badge](https://img.shields.io/badge/MIT-License-orange?style=for-the-badge&logo=MIT&labelColor=black)
-
-
+![Static Badge](https://img.shields.io/badge/MIT-License-%20red?style=for-the-badge&logo=MIT&labelColor=black)
 
 
 
