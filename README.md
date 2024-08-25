@@ -10,7 +10,8 @@
 
  ![Static Badge](https://img.shields.io/badge/ANGULAR17-darkred?style=for-the-badge&logo=ANGULAR&labelColor=black)
 
- ![Static Badge](https://img.shields.io/badge/BOOTSTRAP-blue?style=for-the-badge&logo=BOOTSTRAP&labelColor=black)
+![Static Badge](https://img.shields.io/badge/bootstrap-rgb(86%2C%2061%2C%20124)?style=for-the-badge&logo=bootstrap&labelColor=black)
+
 
  ## 🚀Getting Started
  1. Clone the repository 📋: 
