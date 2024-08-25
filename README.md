@@ -24,7 +24,7 @@
 
 3. Run the application 🚀:
 
-     ![Static Badge](https://img.shields.io/badge/ng-serve-green)
+     ![Static Badge](https://img.shields.io/badge/ng-serve-green) 
 
 4. Open in browser 📊:
 
