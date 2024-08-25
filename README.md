@@ -2,7 +2,7 @@
 # <p align="center"> 🚀Angular BMI Caculator🚀</p>
  A simple web application built with Angular framework that calculates Body Mass Index (BMI) based on user input. Users can enter their weight and height, and the application will display their BMI category (Underweight, Normal weight, Overweight, Obese).
 
- ## Technologies Used
+ ## Technologies Used 💻
  ![Static Badge](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&labelColor=black)
 
  ![Static Badge](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&labelColor=black)
