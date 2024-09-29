@@ -56,7 +56,7 @@ This project was made possible thanks to the following:
  
 ## Authors🖋️
 
- ![Static Badge](https://img.shields.io/badge/Copyright-dark)
+ ![Static Badge](https://img.shields.io/badge/Yogeshwaree_Dafane-darkblue)
 
 
 ## License 📜
