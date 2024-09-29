@@ -1,16 +1,9 @@
 
 # <p align="center"> 🚀Angular BMI Caculator🚀</p>
- A simple web application built with Angular framework that calculates Body Mass Index (BMI) based on user input. Users can enter their weight and height, and the application will display their BMI category (Underweight, Normal weight, Overweight, Obese).
+## A simple web application built with Angular framework that calculates Body Mass Index (BMI) based on user input. Users can enter their weight and height, and the application will display their BMI category (Underweight, Normal weight, Overweight, Obese).
 
  ## Technologies Used 💻
- ![Static Badge](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&labelColor=black)
-
- ![Static Badge](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&labelColor=black)
-
-
- ![Static Badge](https://img.shields.io/badge/ANGULAR17-darkred?style=for-the-badge&logo=ANGULAR&labelColor=black)
-
-![Static Badge](https://img.shields.io/badge/bootstrap-rgb(86%2C%2061%2C%20124)?style=for-the-badge&logo=bootstrap&labelColor=black)
+ ![Static Badge](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&labelColor=black)![Static Badge](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&labelColor=black)![Static Badge](https://img.shields.io/badge/ANGULAR17-darkred?style=for-the-badge&logo=ANGULAR&labelColor=black)![Static Badge](https://img.shields.io/badge/bootstrap-rgb(86%2C%2061%2C%20124)?style=for-the-badge&logo=bootstrap&labelColor=black)
 
 
  ## 🚀Getting Started
@@ -62,7 +55,9 @@ This project was made possible thanks to the following:
 - GitHub Community for providing a platform for version control and collaboration
  
 ## Authors🖋️
-Yogeshwaree Dafane
+
+ ![Static Badge](https://img.shields.io/badge/Copyright-dark)
+
 
 ## License 📜
 ![Static Badge](https://img.shields.io/badge/MIT-License-%20red?style=for-the-badge&logo=MIT&labelColor=black)
